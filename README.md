@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá meu apelido é Guilherme Borges, e eu estou no 3º ano do ensino médio
+## Olá meu apelido é  Borges, e eu estou no 3º ano do ensino médio
  
 <div align="center">
   <a href="https://github.com/guiborges2503">
