@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, meu nome é Guilherme Travain Borges, e eu estou no 3º ano do ensino médio.
- 
+## Seja bem-vindo(a)!
+#### Prazer! Meu nome é Guilherme, tenho 17 anos (nascido em 2005), moro em Dois Córregos/SP e sou técnico em Desenvolvimento de Sistemas pela ETEC Joaquim Ferreira do Amaral. Abaixo, você pode conferir mais sobre minhas habilidades e entrar em contato caso queira.
+### 📷 Redes Sociais & Contato
+<a href="https://github.com/guiborges2503"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/gui_borges2503"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:guilhermetravain1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https:/www.linkedin.com/in/guilherme-travain-borges-5028a1236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+--
+
 <div align="center">
   <a href="https://github.com/guiborges2503">
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=guiborges2503&theme=gotham"/> <br>
