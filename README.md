@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Seja bem-vindo(a)!
-#### Prazer! Meu nome é Guilherme, tenho 20 anos, moro em Bauru/SP e sou técnico em Desenvolvimento de Sistemas pela ETEC Joaquim Ferreira do Amaral, e atualmente estou cursando o curso de Ciencia da Computação. Abaixo, você pode conferir mais sobre minhas habilidades e entrar em contato caso queira.
+#### Prazer! Meu nome é Guilherme, tenho 20 anos, moro em Bauru/SP e sou Desenvolvedor Junior, e atualmente estou cursando o curso de Ciencia da Computação e Trabalho na empresa Carsten. Abaixo, você pode conferir mais sobre minhas habilidades e entrar em contato caso queira.
 ### 📷 Redes Sociais & Contato
 <a href="https://github.com/guiborges2503"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/gui_borges2503"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
