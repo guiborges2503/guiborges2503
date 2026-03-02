@@ -1,23 +1,36 @@
 # 👋 Guilherme Travain Borges
 
-💻 **Fullstack Developer**  
+💻 Fullstack Developer  
 🎓 Bacharelando em Ciência da Computação  
 📍 Bauru/SP – Brasil  
 
-Sou desenvolvedor Fullstack com foco na criação de aplicações web modernas, escaláveis e bem estruturadas.  
-Atuo no desenvolvimento de APIs em Python e na construção de interfaces modernas utilizando React com Vite e TypeScript.
+---
 
-Tenho forte base em lógica de programação, organização de código e boas práticas de arquitetura de software.
+## 🇧🇷 Sobre mim
+
+Sou Desenvolvedor Fullstack com foco na construção de aplicações web modernas, escaláveis e bem estruturadas.  
+Atuo no desenvolvimento de APIs utilizando Python e na construção de interfaces performáticas com React + Vite e TypeScript.
+
+Tenho forte base em lógica de programação, organização de código e boas práticas de arquitetura. Busco sempre desenvolver soluções limpas, escaláveis e de fácil manutenção.
 
 ---
 
-## 🚀 Stack Principal
+## 🇺🇸 About Me
+
+I am a Fullstack Developer focused on building modern, scalable, and well-structured web applications.  
+I work with Python for backend development and React + Vite with TypeScript for building performant user interfaces.
+
+I have a strong foundation in programming logic and software architecture best practices, always aiming to create clean and maintainable solutions.
+
+---
+
+## 🚀 Tech Stack
 
 ### 🔹 Backend
 - Python  
 - PHP  
-- Desenvolvimento de APIs REST  
-- Autenticação e integrações  
+- REST API Development  
+- Authentication & Integrations  
 
 ### 🔹 Frontend
 - React (Vite)  
@@ -26,32 +39,33 @@ Tenho forte base em lógica de programação, organização de código e boas pr
 - HTML5  
 - CSS3  
 
-### 🔹 Banco de Dados
+### 🔹 Database
 - MySQL  
 - SQLite  
 
 ---
 
-## 🛠️ Práticas & Ferramentas
+## 🛠️ Practices & Tools
 
 - Git & Gitflow  
-- Arquitetura em camadas  
-- Testes unitários  
+- Layered Architecture  
+- Unit Testing  
 - Docker  
-- Integração com APIs externas  
-- Deploy em ambientes Cloud  
+- API Integrations  
+- Cloud Deployment  
 
 ---
 
-## 📌 Atualmente
+## 📌 Professional Focus
 
-- 🔭 Desenvolvendo aplicações Fullstack com foco em performance  
-- 🌱 Aprofundando conhecimentos em arquitetura backend  
-- ⚡ Construindo sistemas organizados, escaláveis e de fácil manutenção  
+- Building scalable fullstack applications  
+- Writing clean and maintainable code  
+- Improving software architecture skills  
+- Performance-oriented development  
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guiborges2503)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-travain-borges)
@@ -62,7 +76,7 @@ Tenho forte base em lógica de programação, organização de código e boas pr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=guiborges2503&theme=github-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiborges2503&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiborges2503&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=guiborges2503&theme=github-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guiborges2503&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiborges2503&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
