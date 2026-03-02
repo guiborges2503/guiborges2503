@@ -73,10 +73,8 @@ I have a strong foundation in programming logic and software architecture best p
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=guiborges2503&theme=github-dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guiborges2503&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiborges2503&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+- 🔹 Fullstack App (React + Vite + Python API)
+- 🔹 REST API with Authentication
+- 🔹 Dashboard with TypeScript
